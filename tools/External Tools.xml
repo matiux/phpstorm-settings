@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="Psalm" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ContentRoot$/scripts/commands/psalm" />
+      <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+  <tool name="PHP CS Fixer Fix" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$ContentRoot$/scripts/commands/php-cs-fixer-fix" />
+      <option name="PARAMETERS" value="$FilePathRelativeToProjectRoot$" />
+      <option name="WORKING_DIRECTORY" value="$ContentRoot$" />
+    </exec>
+  </tool>
+</toolSet>
