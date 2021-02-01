@@ -8,6 +8,7 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="jsonm" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" type="TSV" />
     </extensionMap>
   </component>
