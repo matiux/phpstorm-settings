@@ -5,6 +5,7 @@
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
