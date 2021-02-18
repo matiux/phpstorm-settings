@@ -1,14 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
+      <mapping ext="rc" type="PLAIN_TEXT" />
+      <mapping ext="jsonm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
