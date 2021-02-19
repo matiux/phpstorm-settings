@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
+      <mapping pattern=".en.local" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
