@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
+      <mapping pattern="apache_default" type="AUTO_DETECTED" />
+      <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
