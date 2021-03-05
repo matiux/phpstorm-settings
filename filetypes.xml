@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
       <mapping pattern="apache_default" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
