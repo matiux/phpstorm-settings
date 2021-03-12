@@ -7,6 +7,7 @@
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
+      <mapping pattern="update-coverage-badge" type="AUTO_DETECTED" />
       <mapping ext="csv" type="CSV" />
       <removed_mapping ext="tsv" type="CSV/TSV" />
       <removed_mapping ext="csv" type="CSV/TSV" />
