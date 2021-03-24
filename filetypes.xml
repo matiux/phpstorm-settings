@@ -10,7 +10,6 @@
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
       <mapping pattern="update-coverage-badge" type="AUTO_DETECTED" />
-      <removed_mapping ext="csv" type="CSV" />
       <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="tsv" type="CSV/TSV" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
@@ -19,7 +18,6 @@
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="tsv" type="TSV" />
     </extensionMap>
   </component>
 </application>
