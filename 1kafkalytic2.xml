@@ -1,5 +1,23 @@
 <application>
   <component name="Kafkalytic">
+    <option name="clusters">
+      <map>
+        <entry key="ts-evh-we008.servicebus.windows.net:9093">
+          <value>
+            <map>
+              <entry key="bootstrap.servers" value="ts-evh-we008.servicebus.windows.net:9093" />
+              <entry key="metadata.broker.list" value="ts-evh-we008.servicebus.windows.net:9093" />
+              <entry key="name" value="ts-evh-we008.servicebus.windows.net:9093" />
+              <entry key="request.timeout.ms" value="5000" />
+              <entry key="sasl.jaas.config" value="org.apache.kafka.common.security.plain.PlainLoginModule required username=&quot;$ConnectionString&quot; password=&quot;Endpoint=sb://ts-evh-we008.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=SuSr4AxlpPCmtckkixIvBK9+EM7aDtxVqcuxTR3kms8=&quot;;" />
+              <entry key="sasl.mechanism" value="PLAIN" />
+              <entry key="security.protocol" value="SASL_SSL" />
+              <entry key="ssl.ca.location" value="$USER_HOME$/Documents/Programming/Illimity/Neprix/NB/CRMGateway/crm-gateway/cacert.pem" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="config">
       <map>
         <entry key="progress_tip" value="shown" />
