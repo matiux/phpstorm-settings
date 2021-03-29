@@ -2,6 +2,20 @@
   <component name="Kafkalytic">
     <option name="clusters">
       <map>
+        <entry key="dv-evh-we008.servicebus.windows.net:9093">
+          <value>
+            <map>
+              <entry key="bootstrap.servers" value="dv-evh-we008.servicebus.windows.net:9093" />
+              <entry key="group.id" value="crm-gateway" />
+              <entry key="metadata.broker.list" value="dv-evh-we008.servicebus.windows.net:9093" />
+              <entry key="name" value="dv-evh-we008.servicebus.windows.net:9093" />
+              <entry key="request.timeout.ms" value="5000" />
+              <entry key="sasl.jaas.config" value="org.apache.kafka.common.security.plain.PlainLoginModule required username=&quot;$ConnectionString&quot; password=&quot;Endpoint=sb://dv-evh-we008.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=olKPYfnUpzkAfYuzLyPM9apaBjW0gMqcoaZ2ZebzMxI=&quot;;" />
+              <entry key="sasl.mechanism" value="PLAIN" />
+              <entry key="security.protocol" value="SASL_SSL" />
+            </map>
+          </value>
+        </entry>
         <entry key="ts-evh-we008.servicebus.windows.net:9093">
           <value>
             <map>
