@@ -5,6 +5,7 @@
       <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
       <mapping pattern="apache_default" type="AUTO_DETECTED" />
+      <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
