@@ -30,6 +30,19 @@
             </map>
           </value>
         </entry>
+        <entry key="ut-evh-we008.servicebus.windows.net:9093">
+          <value>
+            <map>
+              <entry key="bootstrap.servers" value="ut-evh-we008.servicebus.windows.net:9093" />
+              <entry key="metadata.broker.list" value="ut-evh-we008.servicebus.windows.net:9093" />
+              <entry key="name" value="ut-evh-we008.servicebus.windows.net:9093" />
+              <entry key="request.timeout.ms" value="5000" />
+              <entry key="sasl.jaas.config" value="org.apache.kafka.common.security.plain.PlainLoginModule required username=&quot;$ConnectionString&quot; password=&quot;Endpoint=sb://ut-evh-we008.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=ltBP4pEmzXZjBKUEJGIorbT8ajiiH+nsl0tbGnxJhSs=&quot;;" />
+              <entry key="sasl.mechanism" value="PLAIN" />
+              <entry key="security.protocol" value="SASL_SSL" />
+            </map>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="config">
