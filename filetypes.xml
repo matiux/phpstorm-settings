@@ -8,6 +8,7 @@
       <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
+      <mapping pattern="card" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
       <mapping pattern="update-coverage-badge" type="AUTO_DETECTED" />
