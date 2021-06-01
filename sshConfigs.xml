@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="bastion-host.ita" id="b728b6ce-0b3d-49c7-9b10-3d4d0cb5e5f3" port="22" nameFormat="DESCRIPTIVE" username="matteo.galacci" />
+      <sshConfig host="localhost" id="b728b6ce-0b3d-49c7-9b10-3d4d0cb5e5f3" keyPath="$USER_HOME$/.ssh/mado" port="9999" nameFormat="DESCRIPTIVE" username="matteo.galacci" />
     </configs>
   </component>
 </application>
