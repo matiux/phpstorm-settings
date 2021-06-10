@@ -1,17 +1,17 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="docker-php-ext-enable" type="AUTO_DETECTED" />
-      <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="generate-coverage" type="AUTO_DETECTED" />
+      <mapping pattern="update-coverage-badge" type="AUTO_DETECTED" />
       <mapping pattern="apache_default" type="AUTO_DETECTED" />
-      <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
+      <mapping pattern="dc-up" type="AUTO_DETECTED" />
+      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
+      <mapping pattern="docker-php-ext-enable" type="AUTO_DETECTED" />
+      <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
+      <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
       <mapping pattern="card" type="AUTO_DETECTED" />
-      <mapping pattern="pre-commit" type="AUTO_DETECTED" />
-      <mapping pattern="dc-up" type="AUTO_DETECTED" />
-      <mapping pattern="update-coverage-badge" type="AUTO_DETECTED" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
