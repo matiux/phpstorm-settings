@@ -12,6 +12,9 @@
       <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
       <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
+      <mapping ext="csv" type="CSV" />
+      <removed_mapping ext="tsv" type="CSV/TSV" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
@@ -20,6 +23,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="TSV" />
     </extensionMap>
   </component>
 </application>
