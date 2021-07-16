@@ -12,6 +12,7 @@
       <mapping pattern="RichiestaConsensoGenerata" type="AUTO_DETECTED" />
       <mapping pattern="custom_xrc" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
