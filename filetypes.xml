@@ -14,6 +14,7 @@
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
@@ -23,6 +24,7 @@
       <mapping ext="jsonm" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
     </extensionMap>
   </component>
