@@ -22,6 +22,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="uaml" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
