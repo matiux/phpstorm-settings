@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dc-up" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit" type="AUTO_DETECTED" />
+      <mapping pattern="project" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="pre-commit-functions" type="AUTO_DETECTED" />
       <mapping pattern="card" type="AUTO_DETECTED" />
