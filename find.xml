@@ -1,8 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="gestore-utenti" />
+    <option name="defaultScopeName" value="gestore-utenti" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="SEARCH_SCOPE" value="gestore-utenti" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
