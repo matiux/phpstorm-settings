@@ -1,5 +1,27 @@
 <application>
   <component name="aws">
+    <option name="profilesNotification" value="Always" />
     <option name="promptedForTelemetry" value="true" />
+    <option name="telemetryEnabled" value="false" />
+    <option name="useDefaultCredentialRegion" value="Always" />
+  </component>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="id" value="cloud-debugCli" />
+        </ExecutableState>
+        <ExecutableState>
+          <option name="id" value="samCli" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+  <component name="experiments">
+    <option name="value">
+      <map>
+        <entry key="ecsExec" value="false" />
+      </map>
+    </option>
   </component>
 </application>
