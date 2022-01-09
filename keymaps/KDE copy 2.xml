@@ -13,4 +13,7 @@
   <action id="Tool_External Tools_Psalm">
     <keyboard-shortcut first-keystroke="shift ctrl alt s" />
   </action>
+  <action id="Tool_External Tools_sh">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
 </keymap>
