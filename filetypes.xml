@@ -26,6 +26,7 @@
       <mapping pattern=".php-cs-fixer.cache" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="zsh-theme" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
