@@ -29,7 +29,6 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="zsh-theme" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
