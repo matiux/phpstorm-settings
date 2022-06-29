@@ -20,7 +20,6 @@
       <mapping pattern="phpunit" type="AUTO_DETECTED" />
       <mapping pattern="NotifiersRegistryResponse" type="AUTO_DETECTED" />
       <mapping pattern="config" type="AUTO_DETECTED" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".en.local" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".php-cs-fixer.cache" type="PLAIN_TEXT" />
