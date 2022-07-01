@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project" />
-    <option name="defaultScopeName" value="Project" />
-    <option name="SEARCH_SCOPE" value="Project" />
+    <option name="customScope" value="WETO" />
+    <option name="defaultScopeName" value="WETO" />
+    <option name="SEARCH_SCOPE" value="WETO" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
