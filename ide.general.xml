@@ -9,8 +9,12 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="FlowJSInfo" value="false" />
         <entry key="Memory" value="true" />
+        <entry key="TypeScriptInfo" value="false" />
         <entry key="mtProjectFactory" value="false" />
+        <entry key="mtThemeFactory" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>
