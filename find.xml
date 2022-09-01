@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="GRFA" />
+    <option name="defaultScopeName" value="GRFA" />
+    <option name="SEARCH_SCOPE" value="GRFA" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
