@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="CRMG" />
     <option name="defaultScopeName" value="CRMG" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="CRMG" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
