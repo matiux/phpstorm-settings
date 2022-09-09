@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="CRMG" />
-    <option name="defaultScopeName" value="CRMG" />
+    <option name="customScope" value="GRFA" />
+    <option name="defaultScopeName" value="GRFA" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="CRMG" />
+    <option name="SEARCH_SCOPE" value="GRFA" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
