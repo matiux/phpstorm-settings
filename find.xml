@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="connettore-pvp" />
-    <option name="defaultScopeName" value="connettore-pvp" />
-    <option name="SEARCH_SCOPE" value="connettore-pvp" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
