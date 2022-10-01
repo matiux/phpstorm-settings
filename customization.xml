@@ -76,6 +76,10 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="MainToolbarRight" is_group="true" action_type="-1" position="3">
+      <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="MainToolbarCenter" is_group="true" action_type="-1" position="2">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
@@ -88,5 +92,11 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="MainMenu" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar Left" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="MainMenu" icon="jar:file:/home/iux/.local/share/JetBrains/PhpStorm2022.3/Atom%20Material%20Icons/lib/common.jar!/icons/general/gearPlain.svg" />
   </component>
 </application>
