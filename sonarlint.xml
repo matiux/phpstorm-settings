@@ -7,6 +7,11 @@
             <Rule active="false" key="php:S103" />
           </value>
         </entry>
+        <entry key="php:S107">
+          <value>
+            <Rule active="false" key="php:S107" />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="secretsNeverBeenAnalysed" value="false" />
@@ -21,6 +26,7 @@
       </list>
     </option>
     <rules>
+      <Rule active="false" key="php:S107" />
       <Rule active="false" key="php:S103" />
     </rules>
   </component>
