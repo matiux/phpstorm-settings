@@ -1,33 +1,5 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="rulesByKey">
-      <map>
-        <entry key="php:S103">
-          <value>
-            <Rule active="false" key="php:S103" />
-          </value>
-        </entry>
-        <entry key="php:S107">
-          <value>
-            <Rule active="false" key="php:S107" />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="secretsNeverBeenAnalysed" value="false" />
-    <option name="sonarQubeServers">
-      <list>
-        <SonarQubeServer>
-          <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>dfcbdf9ddfcbdfc9dfcfdfc8df9adf9adfc8df9adfcbdf9cdf9bdfcedf98df92df9adf9adfcfdfc8dfcfdfccdfccdfc8df9edfcedf9cdf9bdfcedfcbdfcbdfcfdf99df9fdfcbdfc9df9ddfcbdf9edf9a</token>
-          <option name="name" value="illimity-sonar" />
-          <organizationKey>illimitybank</organizationKey>
-        </SonarQubeServer>
-      </list>
-    </option>
-    <rules>
-      <Rule active="false" key="php:S107" />
-      <Rule active="false" key="php:S103" />
-    </rules>
+    <rules />
   </component>
 </application>
