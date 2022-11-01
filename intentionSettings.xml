@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="SQL/Add GROUP BY column to SELECT list" />
+  </component>
+</application>
