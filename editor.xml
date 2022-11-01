@@ -3,7 +3,7 @@
     <option name="codeVisionGroupToPosition">
       <map>
         <entry key="inheritors" value="Default" />
-        <entry key="references" value="Right" />
+        <entry key="references" value="Top" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
