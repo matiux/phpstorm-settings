@@ -7,9 +7,15 @@
             <Rule active="false" key="php:S107" />
           </value>
         </entry>
+        <entry key="php:S1808">
+          <value>
+            <Rule active="false" key="php:S1808" />
+          </value>
+        </entry>
       </map>
     </option>
     <rules>
+      <Rule active="false" key="php:S1808" />
       <Rule active="false" key="php:S107" />
     </rules>
   </component>
