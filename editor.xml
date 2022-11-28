@@ -13,6 +13,8 @@
         <option value="vcs.code.vision" />
       </set>
     </option>
+    <option name="visibleMetricsAboveDeclarationCount" value="6" />
+    <option name="visibleMetricsNextToDeclarationCount" value="6" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
@@ -24,20 +26,25 @@
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JavaScript.js.chain.hints" />
+        <option value="JavaScript.js.type.hints" />
+        <option value="TypeScript.ts.chain.hints" />
+        <option value="TypeScript.ts.enum.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value=".references" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </JavaScript.js.type.hints>
       <TypeScript.ts.type.hints>
         <Settings>
-          <option name="showForFunctions" value="true" />
-          <option name="showForShorthandFunctions" value="true" />
-          <option name="showForVariablesAndFields" value="true" />
+          <option name="showForInferredParameters" value="false" />
         </Settings>
       </TypeScript.ts.type.hints>
       <SQL.sql.join.cardinality.hints>
