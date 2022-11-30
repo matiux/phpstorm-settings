@@ -7,6 +7,11 @@
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
     <option name="visibleMetricsAboveDeclarationCount" value="6" />
     <option name="visibleMetricsNextToDeclarationCount" value="6" />
   </component>
@@ -29,7 +34,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
+    <option name="lastViewedProviderKeyId" value=".references" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
