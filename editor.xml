@@ -2,7 +2,7 @@
   <component name="CodeVisionSettings">
     <option name="codeVisionGroupToPosition">
       <map>
-        <entry key="inheritors" value="Top" />
+        <entry key="inheritors" value="Right" />
         <entry key="references" value="Right" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
@@ -34,7 +34,7 @@
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value=".references" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
     <settingsMapElement>
       <JavaScript.js.type.hints>
         <Settings>
