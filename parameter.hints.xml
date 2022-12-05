@@ -18,8 +18,8 @@
       <language id="XML" />
       <language id="JavaScript" />
       <language id="Vue" />
-      <language id="SQL" />
       <language id="yaml" />
+      <language id="SQL" />
     </disabledLanguages>
   </component>
 </application>
