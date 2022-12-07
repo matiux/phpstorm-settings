@@ -1,9 +1,9 @@
 <scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-10-01T19:03:50</property>
+    <property name="created">2022-12-07T23:38:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-07T23:57:36</property>
+    <property name="modified">2022-12-07T23:38:43</property>
     <property name="originalScheme">Dark</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -18,15 +18,11 @@
     <option name="DOCUMENTATION_COLOR" value="2b2d30" />
     <option name="ERROR_HINT" value="402929" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
@@ -34,8 +30,6 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="549159" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="868a91" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="375fad" />
