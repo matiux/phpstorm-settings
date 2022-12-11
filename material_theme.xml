@@ -15,6 +15,7 @@
     <option name="isCompactFields" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useColoredDirectories" value="true" />
     <option name="useColoredTitleBar" value="true" />
@@ -22,7 +23,7 @@
     <option name="customListItemsSize" value="24" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="16" />
-    <option name="accentColor" value="387bff" />
+    <option name="accentColor" value="7cb342" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
     <option name="version" value="8.3.2" />
