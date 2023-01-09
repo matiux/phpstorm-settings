@@ -18,6 +18,7 @@
         <entry key="FlowJSInfo" value="false" />
         <entry key="TypeScriptInfo" value="false" />
         <entry key="mtProjectFactory" value="false" />
+        <entry key="mtThemeFactory" value="false" />
         <entry key="php.debug.status.widget" value="false" />
         <entry key="php.language.level.widget" value="false" />
         <entry key="symfony.status.bar" value="false" />
