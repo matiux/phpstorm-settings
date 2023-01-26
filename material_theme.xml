@@ -21,11 +21,10 @@
     <option name="useColoredTitleBar" value="true" />
     <option name="customSidebarHeight" value="24" />
     <option name="customListItemsSize" value="24" />
-    <option name="settingsSelectedTab" value="2" />
-    <option name="tabsHeight" value="16" />
+    <option name="tabsHeight" value="26" />
     <option name="accentColor" value="7cb342" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
-    <option name="version" value="8.4.1" />
+    <option name="version" value="8.4.2" />
   </component>
 </application>
