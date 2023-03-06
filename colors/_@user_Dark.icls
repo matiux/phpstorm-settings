@@ -3,8 +3,9 @@
     <property name="created">2023-03-04T18:35:41</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-03-06T10:18:00</property>
+    <property name="modified">2023-03-06T11:29:25</property>
     <property name="originalScheme">Dark</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
