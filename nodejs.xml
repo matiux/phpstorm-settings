@@ -1,5 +1,16 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="/usr/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+  </component>
+  <component name="NodeJsRemoteInterpreters">
+    <interpreter node-remote-interpreter="docker-compose://[/home/iux/Documents/Programming/Illimity/Neprix/shiva/shiva-be-tester/docker/docker-compose.yml, /home/iux/Documents/Programming/Illimity/Neprix/shiva/shiva-be-tester/docker/docker-compose.override.yml]:shiva-be-tester-nodejs/node" INTERPRETER_PATH="node" HELPERS_PATH=".webstorm_nodejs_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" VERSION="" OUTDATED_ID="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="shiva-be-tester-nodejs" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+      <dockerComposeConfigurationPaths>
+        <item value="$USER_HOME$/Documents/Programming/Illimity/Neprix/shiva/shiva-be-tester/docker/docker-compose.yml" />
+        <item value="$USER_HOME$/Documents/Programming/Illimity/Neprix/shiva/shiva-be-tester/docker/docker-compose.override.yml" />
+      </dockerComposeConfigurationPaths>
+      <envs />
+    </interpreter>
   </component>
 </application>
