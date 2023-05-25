@@ -20,6 +20,7 @@
       <map>
         <entry key="FlowJSInfo" value="false" />
         <entry key="TypeScriptInfo" value="false" />
+        <entry key="VFS_REFRESH" value="true" />
         <entry key="aws.codewhisperer" value="false" />
         <entry key="mtProjectFactory" value="false" />
         <entry key="mtThemeFactory" value="false" />
