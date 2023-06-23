@@ -3,7 +3,7 @@
     <property name="created">2023-06-23T15:45:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-06-24T00:42:20</property>
+    <property name="modified">2023-06-24T01:14:48</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -109,6 +109,26 @@
     <option name="CMD_LABEL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="d3d3c8" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1fb0ff" />
+      </value>
+    </option>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5c962c" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4050" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
