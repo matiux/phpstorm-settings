@@ -3,7 +3,7 @@
     <property name="created">2023-06-23T15:45:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-06-23T18:32:30</property>
+    <property name="modified">2023-06-24T00:41:31</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -497,6 +497,9 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -561,10 +564,13 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
       <value />
@@ -684,9 +690,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="323232" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="878787" />
       </value>
     </option>
     <option name="MT_DIRECTORIES">
@@ -870,6 +875,9 @@
       <value>
         <option name="BACKGROUND" value="323232" />
       </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value />
     </option>
     <option name="TEXT">
       <value>
