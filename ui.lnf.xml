@@ -3,6 +3,7 @@
     <option name="enabled" value="true" />
   </component>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
