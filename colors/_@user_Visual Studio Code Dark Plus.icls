@@ -3,7 +3,7 @@
     <property name="created">2023-06-23T15:45:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-06-23T16:19:28</property>
+    <property name="modified">2023-06-23T16:34:08</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -27,6 +27,7 @@
     <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="3b3b3b" />
     <option name="LINE_NUMBERS_COLOR" value="848484" />
+    <option name="MODIFIED_TAB_ICON" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="3b3b3b" />
     <option name="SELECTION_BACKGROUND" value="264e77" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="4e4e4e" />
@@ -485,6 +486,9 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -549,10 +553,13 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="499cd5" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
       <value />
@@ -672,9 +679,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="323232" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="878787" />
       </value>
     </option>
     <option name="OC.CONCEPT">
@@ -898,6 +904,9 @@
     </option>
     <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.BRACKET">
+      <value />
+    </option>
     <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
     <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
   </attributes>
