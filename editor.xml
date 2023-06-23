@@ -56,6 +56,10 @@
       </SQL.sql.join.cardinality.hints>
     </settingsMapElement>
   </component>
+  <component name="PhpEditorOptions">
+    <option name="SHOW_CLASS_SEPARATORS" value="true" />
+    <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />

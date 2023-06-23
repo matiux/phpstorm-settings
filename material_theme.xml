@@ -11,9 +11,14 @@
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isFocusMode" value="true" />
+    <option name="isStyledDirectories" value="true" />
+    <option name="isAnimatedTabs" value="false" />
+    <option name="isTabSeparatorsEnabled" value="false" />
+    <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="isShowWizardOnWelcome" value="false" />
     <option name="pristineConfig" value="false" />
+    <option name="useGlobalFont" value="true" />
     <option name="useColoredTitleBar" value="true" />
     <option name="useProjectTitle" value="false" />
     <option name="useProjectIcon" value="false" />
@@ -22,10 +27,10 @@
     <option name="rightTreeIndent" value="4" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="416a9b" />
+    <option name="highlightColor" value="466cbd" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
     <option name="version" value="8.7.0" />
-    <option name="tabHighlightPosition" value="None" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
