@@ -10,6 +10,8 @@
     <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
+    <entry key="editor.focus.mode.color.light" value="777777" />
+    <entry key="editor.focus.mode.color.dark" value="777777" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
@@ -19,7 +21,6 @@
         <entry key="VFS_REFRESH" value="true" />
         <entry key="aws.codewhisperer" value="false" />
         <entry key="mtProjectFactory" value="false" />
-        <entry key="mtThemeFactory" value="false" />
         <entry key="php.debug.status.widget" value="false" />
         <entry key="php.language.level.widget" value="false" />
         <entry key="symfony.status.bar" value="false" />
