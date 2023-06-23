@@ -20,18 +20,17 @@
     <option name="pristineConfig" value="false" />
     <option name="useGlobalFont" value="true" />
     <option name="useColoredTitleBar" value="true" />
-    <option name="useProjectTitle" value="false" />
-    <option name="useProjectIcon" value="false" />
+    <option name="useCustomTitle" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="customListItemsSize" value="22" />
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="settingsSelectedTab" value="6" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="26" />
-    <option name="accentColor" value="ff9800" />
+    <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="466cbd" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
     <option name="version" value="8.7.0" />
     <option name="showWhatsNew" value="false" />
