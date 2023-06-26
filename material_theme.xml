@@ -9,6 +9,7 @@
     <option name="isCompactTables" value="true" />
     <option name="isCompactFields" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isFocusMode" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isAnimatedTabs" value="false" />
@@ -23,8 +24,8 @@
     <option name="customSidebarHeight" value="22" />
     <option name="customListItemsSize" value="22" />
     <option name="indicatorThickness" value="1" />
-    <option name="leftTreeIndent" value="8" />
-    <option name="rightTreeIndent" value="8" />
+    <option name="leftTreeIndent" value="12" />
+    <option name="rightTreeIndent" value="12" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="31" />
     <option name="accentColor" value="416a9b" />
