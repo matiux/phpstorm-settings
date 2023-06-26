@@ -24,8 +24,7 @@
     <option name="customSidebarHeight" value="22" />
     <option name="customListItemsSize" value="22" />
     <option name="indicatorThickness" value="1" />
-    <option name="leftTreeIndent" value="12" />
-    <option name="rightTreeIndent" value="12" />
+    <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="31" />
     <option name="accentColor" value="416a9b" />
