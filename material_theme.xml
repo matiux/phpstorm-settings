@@ -1,5 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCompactFields" value="true" />
+    <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isAnimatedTabs" value="false" />
@@ -16,7 +23,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
-    <option name="tabsHeight" value="60" />
+    <option name="tabsHeight" value="35" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="466cbd" />
     <option name="selectedTheme" value="NATIVE" />
