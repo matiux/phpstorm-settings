@@ -3,7 +3,6 @@
     <option name="compactTables" value="true" />
     <option name="focusModeEnabled" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -13,7 +12,6 @@
     <option name="isFocusMode" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isAnimatedTabs" value="false" />
-    <option name="isTabSeparatorsEnabled" value="false" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="isShowWizardOnWelcome" value="false" />
@@ -23,9 +21,10 @@
     <option name="useCustomTitle" value="true" />
     <option name="customSidebarHeight" value="22" />
     <option name="customListItemsSize" value="22" />
+    <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="1" />
     <option name="rightTreeIndent" value="6" />
-    <option name="tabsHeight" value="39" />
+    <option name="tabsHeight" value="60" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="466cbd" />
     <option name="selectedTheme" value="NATIVE" />
