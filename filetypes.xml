@@ -24,6 +24,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".php-cs-fixer.cache" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".changelog" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="jsonm" type="PLAIN_TEXT" />
