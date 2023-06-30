@@ -3,7 +3,7 @@
     <property name="created">2023-06-23T15:45:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-06-30T09:19:51</property>
+    <property name="modified">2023-06-30T23:59:36</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -129,6 +129,11 @@
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff4050" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a68a0d" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
