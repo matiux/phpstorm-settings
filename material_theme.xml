@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -10,9 +11,11 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isStyledDirectories" value="true" />
     <option name="isAnimatedTabs" value="false" />
+    <option name="isTabSeparatorsEnabled" value="false" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="isShowWizardOnWelcome" value="false" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useGlobalFont" value="true" />
     <option name="useColoredTitleBar" value="true" />
@@ -24,7 +27,7 @@
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
     <option name="tabsHeight" value="60" />
-    <option name="accentColor" value="416a9b" />
+    <option name="accentColor" value="2d2d2e" />
     <option name="highlightColor" value="466cbd" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
