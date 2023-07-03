@@ -3,7 +3,7 @@
     <property name="created">2023-06-23T15:45:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-07-03T10:04:23</property>
+    <property name="modified">2023-07-03T10:21:01</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -723,6 +723,7 @@
       <value>
         <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="OC.CONCEPT">
@@ -892,12 +893,12 @@
     <option name="Static method access" baseAttributes="" />
     <option name="TAB_SELECTED">
       <value>
-        <option name="BACKGROUND" value="323232" />
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="BACKGROUND" value="323232" />
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">

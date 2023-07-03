@@ -4,20 +4,10 @@
     <property name="created">2022-12-07T23:38:23</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-11T14:36:01</property>
+    <property name="modified">2023-07-03T10:21:01</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
@@ -27,6 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />

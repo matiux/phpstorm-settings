@@ -8,11 +8,11 @@
     <option name="isCompactFields" value="true" />
     <option name="customListItemsSizeEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="isStyledDirectories" value="true" />
     <option name="isAnimatedTabs" value="false" />
     <option name="isTabsShadow" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="isShowWizardOnWelcome" value="false" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="useGlobalFont" value="true" />
     <option name="useColoredTitleBar" value="true" />
@@ -23,6 +23,7 @@
     <option name="indicatorThickness" value="1" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="4" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="60" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="466cbd" />
