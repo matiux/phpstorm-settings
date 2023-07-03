@@ -1,16 +1,11 @@
-<scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+<scheme name="_@user_Darcula Contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-02-22T09:11:03</property>
+    <property name="created">2023-07-03T10:54:59</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2022.3.2.0.0</property>
-    <property name="modified">2023-07-03T10:56:55</property>
-    <property name="originalScheme">Dark</property>
-    <property name="rainbow Default language">true</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2023-07-03T10:57:23</property>
+    <property name="originalScheme">Darcula Contrast</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="MesloLGS NF" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.3" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="549159" />
     <option name="ANNOTATIONS_COLOR" value="8d9199" />
@@ -24,9 +19,6 @@
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
@@ -108,12 +100,6 @@
       <value>
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MT_DIRECTORIES">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="1e1f22" />
       </value>
     </option>
     <option name="TEXT">
