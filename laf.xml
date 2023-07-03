@@ -1,10 +1,10 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="Darcula" scheme="_@user_Visual Studio Code Dark Plus" />
       <laf-to-scheme laf="Material Darker" scheme="_@user_Visual Studio Code Dark Plus" />
-      <laf-to-scheme laf="Visual Studio Code Dark Plus" scheme="_@user_Visual Studio Code Dark Plus" />
+      <laf-to-scheme laf="Visual Studio Code Dark Plus" scheme="_@user_Default" />
     </lafs-to-previous-schemes>
   </component>
 </application>
