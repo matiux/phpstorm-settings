@@ -3,7 +3,7 @@
     <property name="created">2023-02-18T17:49:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-07-03T10:58:28</property>
+    <property name="modified">2023-03-14T09:11:52</property>
     <property name="originalScheme">New Dark RC</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -396,9 +396,6 @@
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_CUSTOM_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="2fbaa3" />
@@ -510,13 +507,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="32b8af" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -612,7 +606,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="43454a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -649,18 +643,18 @@
         <option name="BACKGROUND" value="27292b" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="b8b167" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
     <option name="REGEXP.REDUNDANT_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6e798a" />
