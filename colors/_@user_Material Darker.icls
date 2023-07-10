@@ -4,7 +4,7 @@
     <property name="created">2023-06-23T15:37:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-07-10T09:24:35</property>
+    <property name="modified">2023-07-10T11:22:33</property>
     <property name="originalScheme">Material Darker</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -3047,11 +3047,12 @@
     <option name="TAB_SELECTED">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="616161" />
+        <option name="BACKGROUND" value="212121" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
