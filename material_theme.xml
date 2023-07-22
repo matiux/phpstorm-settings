@@ -15,12 +15,13 @@
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="useColoredTitleBar" value="true" />
+    <option name="indicatorStyle" value="None" />
     <option name="highlightThickness" value="1" />
     <option name="indicatorThickness" value="1" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="33" />
     <option name="accentColor" value="ff9800" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-625fd399:17530f53ba2:-8000" />
     <option name="version" value="8.9.0" />
     <option name="showWhatsNew" value="false" />
