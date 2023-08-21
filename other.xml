@@ -1,0 +1,38 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "PhpStorm.InitialConfiguration": "true",
+    "bundled.plugins.list.saved.version": "PS-232.9559.14",
+    "do.not.show.again.docker.missing.shell.plugin.notification": "true",
+    "evlsprt3.232": "23",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
+    "input.method.disabler.muted": "true",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Visual Studio Code Dark Plus",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "pro.bashsupport.ra",
+      "pro.bashsupport.fc",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
