@@ -21,7 +21,7 @@
         <entry key="PHP" value="true" />
       </map>
     </option>
-    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
